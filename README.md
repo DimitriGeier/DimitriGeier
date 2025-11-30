@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DimitriGeier
-- 👀 I’m interested in anthropic research
-- 🌱 I’m currently learning machine learning workflows
-- 💞️ I’m looking to collaborate on stable diffusion projects
+- 👀 I’m interested in whooping and hollering 
+- 🌱 I’m currently learning avp development
+- 💞️ I’m looking to collaborate on fun projecta
 - 📫 How to reach me dimitri@dl-verse.com
